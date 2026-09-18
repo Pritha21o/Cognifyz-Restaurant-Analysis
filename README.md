@@ -26,10 +26,10 @@ Analyze restaurant locations and geographical patterns in the dataset.
 
 ## Project Files
 
-* `Restaurant Rating Prediction.ipynb`
-* `Restaurant Recommendation System.ipynb`
-* `Cuisine Classification.ipynb`
-* `Location-based Analysis.ipynb`
+* `Task_1_Restaurant Rating Prediction.ipynb`
+* `Task_2_Restaurant Recommendation System.ipynb`
+* `Task_3_Cuisine Classification.ipynb`
+* `Task_4_Location-based Analysis.ipynb`
 * `Dataset .csv`
 
 ## Tools & Technologies
